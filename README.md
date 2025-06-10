@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Chandana20034/Leet-code/tree/master/0412-fizz-buzz) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
