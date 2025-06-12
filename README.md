@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Chandana20034/Leet-code/tree/master/0412-fizz-buzz) |
+| [1894-merge-strings-alternately](https://github.com/Chandana20034/Leet-code/tree/master/1894-merge-strings-alternately) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Chandana20034/Leet-code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Simulation
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/Chandana20034/Leet-code/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/Chandana20034/Leet-code/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
