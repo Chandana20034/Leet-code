@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chandana20034/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Chandana20034/Leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Chandana20034/Leet-code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
