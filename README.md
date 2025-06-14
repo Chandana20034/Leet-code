@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Chandana20034/Leet-code/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chandana20034/Leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Chandana20034/Leet-code/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Chandana20034/Leet-code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## String
 |  |
 | ------- |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Chandana20034/Leet-code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Chandana20034/Leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
