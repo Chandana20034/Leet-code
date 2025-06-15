@@ -1,8 +1,6 @@
 class Solution {
     public int maxDiff(int num) {
         String original = Integer.toString(num);
-
-        // 1. Maximize: Replace the first non-9 digit with 9
         String maxStr = original;
         for (int i = 0; i < maxStr.length(); i++) {
             if (maxStr.charAt(i) != '9') {
@@ -10,9 +8,6 @@ class Solution {
                 break;
             }
         }
-
-        // 2. Minimize: Replace the first digit (if not '1') with '1',
-        // or replace the next non-0/1 digit with '0'
         String minStr = original;
         char firstChar = minStr.charAt(0);
         if (firstChar != '1') {
