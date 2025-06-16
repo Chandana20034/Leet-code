@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Chandana20034/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Chandana20034/Leet-code/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chandana20034/Leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Chandana20034/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Chandana20034/Leet-code/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Chandana20034/Leet-code/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
