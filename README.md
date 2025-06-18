@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chandana20034/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chandana20034/Leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Chandana20034/Leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Chandana20034/Leet-code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Chandana20034/Leet-code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -85,8 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Chandana20034/Leet-code/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Chandana20034/Leet-code/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Chandana20034/Leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Chandana20034/Leet-code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Combinatorics
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Chandana20034/Leet-code/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Sorting
+|  |
+| ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Chandana20034/Leet-code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
