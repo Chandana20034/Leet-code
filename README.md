@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Chandana20034/Leet-code/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Chandana20034/Leet-code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Chandana20034/Leet-code/tree/master/1894-merge-strings-alternately) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chandana20034/Leet-code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Chandana20034/Leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Chandana20034/Leet-code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chandana20034/Leet-code/tree/master/0412-fizz-buzz) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Chandana20034/Leet-code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Hash Table
 |  |
 | ------- |
