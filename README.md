@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chandana20034/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Chandana20034/Leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chandana20034/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Chandana20034/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chandana20034/Leet-code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0334-increasing-triplet-subsequence) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chandana20034/Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0392-is-subsequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chandana20034/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
