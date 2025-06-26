@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Chandana20034/Leet-code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Math
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chandana20034/Leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Chandana20034/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Chandana20034/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chandana20034/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Chandana20034/Leet-code/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Chandana20034/Leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandana20034/Leet-code/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Chandana20034/Leet-code/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/Chandana20034/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chandana20034/Leet-code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0334-increasing-triplet-subsequence) |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chandana20034/Leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Chandana20034/Leet-code/tree/master/0647-palindromic-substrings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Chandana20034/Leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -179,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Chandana20034/Leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
