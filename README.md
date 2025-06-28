@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Chandana20034/Leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Chandana20034/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandana20034/Leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Chandana20034/Leet-code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Chandana20034/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Chandana20034/Leet-code/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Chandana20034/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Chandana20034/Leet-code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Chandana20034/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Chandana20034/Leet-code/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Chandana20034/Leet-code/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Chandana20034/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chandana20034/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chandana20034/Leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Chandana20034/Leet-code/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/Chandana20034/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Chandana20034/Leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
