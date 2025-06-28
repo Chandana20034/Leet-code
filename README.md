@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Chandana20034/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chandana20034/Leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Chandana20034/Leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Chandana20034/Leet-code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chandana20034/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chandana20034/Leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chandana20034/Leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Chandana20034/Leet-code/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Chandana20034/Leet-code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Chandana20034/Leet-code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chandana20034/Leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Chandana20034/Leet-code/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Chandana20034/Leet-code/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Chandana20034/Leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Chandana20034/Leet-code/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chandana20034/Leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
