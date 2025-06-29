@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Chandana20034/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Chandana20034/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandana20034/Leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chandana20034/Leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Chandana20034/Leet-code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Chandana20034/Leet-code/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Chandana20034/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Chandana20034/Leet-code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chandana20034/Leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chandana20034/Leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Chandana20034/Leet-code/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Chandana20034/Leet-code/tree/master/0647-palindromic-substrings) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chandana20034/Leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Chandana20034/Leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Union Find
 |  |
