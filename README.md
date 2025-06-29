@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chandana20034/Leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Chandana20034/Leet-code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Chandana20034/Leet-code/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Chandana20034/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Chandana20034/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Chandana20034/Leet-code/tree/master/0283-move-zeroes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Chandana20034/Leet-code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Chandana20034/Leet-code/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Chandana20034/Leet-code/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/Chandana20034/Leet-code/tree/master/0238-product-of-array-except-self) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Chandana20034/Leet-code/tree/master/0015-3sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chandana20034/Leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chandana20034/Leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
