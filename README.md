@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Chandana20034/Leet-code/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Chandana20034/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chandana20034/Leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Chandana20034/Leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Chandana20034/Leet-code/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Chandana20034/Leet-code/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Chandana20034/Leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandana20034/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Chandana20034/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Chandana20034/Leet-code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Chandana20034/Leet-code/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chandana20034/Leet-code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0334-increasing-triplet-subsequence) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Chandana20034/Leet-code/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Chandana20034/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Chandana20034/Leet-code/tree/master/0724-find-pivot-index) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chandana20034/Leet-code/tree/master/0015-3sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Chandana20034/Leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Chandana20034/Leet-code/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Chandana20034/Leet-code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chandana20034/Leet-code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
