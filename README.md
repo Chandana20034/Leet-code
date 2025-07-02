@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Chandana20034/Leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Chandana20034/Leet-code/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/Chandana20034/Leet-code/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Chandana20034/Leet-code/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Chandana20034/Leet-code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Chandana20034/Leet-code/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Chandana20034/Leet-code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Chandana20034/Leet-code/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Chandana20034/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Chandana20034/Leet-code/tree/master/1833-find-the-highest-altitude) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Chandana20034/Leet-code/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Chandana20034/Leet-code/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Chandana20034/Leet-code/tree/master/0647-palindromic-substrings) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Chandana20034/Leet-code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Chandana20034/Leet-code/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Chandana20034/Leet-code/tree/master/3618-find-the-original-typed-string-ii) |
 ## Union Find
 |  |
 | ------- |
